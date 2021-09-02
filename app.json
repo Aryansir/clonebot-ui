@@ -4,7 +4,7 @@
   "keywords": ["telegram", "best", "Media", "cloning", "copying", "robot"],
   "logo": "https://telegra.ph/file/9d0ad13518ff252c9d96e.jpg",
   "Telegram": "https://t.me/joinchat/QVPWqk0mbOwyYmEx",
-  "repository": "https://github.com/m4mallu/clonebot-ui",
+  "repository": "https://github.com/ARYAHACKERBOSS/clonebot-ui",
   "env": {
         "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
