@@ -1,4 +1,4 @@
-# [Clone Bot- UI](https://github.com/m4mallu/clonebot-ui) 
+# [Clone Bot- UI](https://github.com/ARYAHACKERBOSS/clonebot-ui) 
 𝖨𝗇𝗍𝖾𝗋𝖿𝖺𝖼𝖾 𝖻𝖺𝗌𝖾𝖽 𝖽𝖾𝗌𝗂𝗀𝗇
 <br>
 <br>
@@ -13,17 +13,17 @@
     </a>
 
 <p align="center">
-  <a href="https://github.com/m4mallu/clonebot-ui/stargazers">
+  <a href="https://github.com/ARYAHACKERBOSS/clonebot-ui/stargazers">
     <img src="https://img.shields.io/github/stars/m4mallu/clonebot-ui?style=social">
   </a>
-  <a href="https://github.com/m4mallu/clonebot-ui/fork">
+  <a href="https://github.com/ARYAHACKERBOSS/clonebot-ui/fork">
     <img src="https://img.shields.io/github/forks/m4mallu/clonebot-ui?label=Fork&style=social">
   </a>  
 </p>
 
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/m4mallu/clonebot-ui)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ARYAHACKERBOSS/clonebot-ui)
 
 <br>
 
@@ -31,13 +31,13 @@
     <a href="https://telegra.ph/Clonebot-UI-Help-05-30">
         <img src="https://img.shields.io/badge/Read-Documentation-blueviolet?style=for-the-badge&logo=telegraph">
     </a>
-    <a href="https://github.com/m4mallu/clonebot">
+    <a href="https://github.com/ARYAHACKERBOSS/clonebot-ui">
         <img src="https://img.shields.io/badge/Clonebot-Main%20Page-blueviolet?style=for-the-badge&logo=github">
     </a>
 </p>
 
 <p align="center">
-    <a href="https://t.me/space4renjith">
+    <a href="https://t.me/aryanyuva">
         <img src="https://img.shields.io/badge/Contact-Developer-blueviolet?style=for-the-badge&logo=telegram">
     </a>
     <a href="https://github.com/pyrogram/pyrogram">
