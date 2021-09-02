@@ -1,9 +1,9 @@
 {
-  "name": "clonebot-ui",
+  "name": "Aryan-userbot",
   "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
   "keywords": ["telegram", "best", "Media", "cloning", "copying", "robot"],
-  "logo": "https://cdn.dribbble.com/users/1658045/screenshots/4999712/clonelogo-01.png",
-  "website": "https://github.com/m4mallu/conebot",
+  "logo": "https://telegra.ph/file/9d0ad13518ff252c9d96e.jpg",
+  "Telegram": "https://t.me/joinchat/QVPWqk0mbOwyYmEx",
   "repository": "https://github.com/m4mallu/clonebot-ui",
   "env": {
         "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
