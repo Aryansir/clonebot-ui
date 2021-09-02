@@ -30,8 +30,7 @@ class Presets(object):
 📲 𝐂𝐥𝐨𝐧𝐞 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐀𝐭    - <b>{}</b>
 📌 𝐋𝐚𝐬𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐝 𝐎𝐧   - <b>{}</b>
 
-🔰 <a href='t.me/RMProjects'><b>@RMProjects</b></a>     🏅 <a href='https://github.com/m4mallu/clonebot-ui'><b>@Github</b></a>
-    """
+
     INFO_CHAT_TYPES = """
 𝙔𝙤𝙪 𝙘𝙖𝙣 𝙚𝙣𝙩𝙚𝙧 𝙩𝙝𝙚 𝙛𝙤𝙡𝙡𝙤𝙬𝙞𝙣𝙜 𝙩𝙮𝙥𝙚𝙨:
 
@@ -57,7 +56,7 @@ class Presets(object):
 𝐓𝐲𝐩𝐞𝐬: 📚:{} | 🎞:{} | 🔊:{} | 📸:{} | 🗣:{}
     """
     FILE_TYPES = ["document", "video", "audio", "voice", "photo"]
-    COPIED_MESSAGES = "<b><a href='https://github.com/m4mallu/clonebot'>Medias Copied</a></b>"
+    COPIED_MESSAGES = "<b><a href='https://github.com/ARYAHACKERBOSS/clonebot-ui'>Medias Copied</a></b>"
     IN_CORRECT_PERMISSIONS_MESSAGE_DEST_POSTING = "A̶c̶c̶e̶s̶s̶ ̶D̶e̶n̶i̶e̶d̶\n\n𝘜𝘴𝘦𝘳 𝘪𝘴 𝘯𝘰𝘵 𝘢𝘯 𝘢𝘥𝘮𝘪𝘯 𝘰𝘳 𝘥𝘰𝘦𝘴𝘯'𝘵 𝘩𝘢𝘷𝘦\n" \
                                                   "𝘱𝘰𝘴𝘵𝘪𝘯𝘨 𝘱𝘳𝘪𝘷𝘪𝘭𝘢𝘨𝘦𝘴 𝘪𝘯 𝘵𝘩𝘦 𝘨𝘪𝘷𝘦𝘯 𝘤𝘩𝘢𝘵"
     USER_ABSENT_MSG = "𝙎𝙚𝙨𝙨𝙞𝙤𝙣 𝙪𝙨𝙚𝙧 𝙞𝙨 𝙣𝙤𝙩 𝙞𝙣 𝙩𝙝𝙚 𝙩𝙖𝙧𝙜𝙚𝙩 𝙘𝙝𝙖𝙩 𝙜𝙞𝙫𝙚𝙣"
