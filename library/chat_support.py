@@ -34,7 +34,7 @@ async def find_msg_id(client, id, chat_id):
 async def calc_percentage(sp, ep, message_id):
     const = pct = int()
     const = (ep - sp) + 1
-    pct = ((message_id + const) - ep) / const * 100  # Credits to ma wife to find a formula !
+    pct = ((message_id + const) - ep) / const * 100  # Credits to Aryan(Bhartiya Yuva)!
     return pct
 
 
