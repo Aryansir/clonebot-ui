@@ -95,6 +95,9 @@ async def clone_medias(client: Bot, message: Message):
                         elif file_type == 'audio':
                             audio_files += 1
                             file_name = messages.audio.file_name
+                        elif file_type == 'text':
+                            text += 1
+                            file_name = messages.text.file_name
                         elif file_type == "voice":
                             voice_files += 1
                             file_name = messages.caption
