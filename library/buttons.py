@@ -6,7 +6,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 home_button = [
     [InlineKeyboardButton("🌏 Source", "source_btn"),
      InlineKeyboardButton("⬇️  Fr. Id", "from_btn"),
-     InlineKeyboardButton("❓ Help", url="https://telegra.ph/Clonebot-UI-Help-05-30")],
+     InlineKeyboardButton("❓ Help", url="https://t.me/joinchat/QVPWqk0mbOwyYmEx")],
     [InlineKeyboardButton("🎯 Target", "target_btn"),
      InlineKeyboardButton("⬆️  To Id", "up_to_btn"),
      InlineKeyboardButton("Type  ➡", "types_btn")],
@@ -21,7 +21,7 @@ home_button = [
 
 
 start_button = [
-    [InlineKeyboardButton("🏅 GitHub 🏅", url="github.com/m4mallu/clonebot-ui"),
+    [InlineKeyboardButton("🏅 Telegram Aryan 🏅", url="https://t.me/joinchat/QVPWqk0mbOwyYmEx"),
      InlineKeyboardButton("⚙️Settings ⚙", "start_btn")]
 ]
 
@@ -49,8 +49,8 @@ finished_button = [
 
 
 terminate_btn = [
-    [InlineKeyboardButton("🧸 Updates", url="https://github.com/m4mallu/clonebot-ui"),
-     InlineKeyboardButton("❓ Usage", url="https://telegra.ph/Clonebot-UI-Help-05-30")],
+    [InlineKeyboardButton("🧸 BhartiyaYuva", url="https://t.me/joinchat/QVPWqk0mbOwyYmEx"),
+     InlineKeyboardButton("❓ Help", url="https://t.me/joinchat/QVPWqk0mbOwyYmEx")],
     [InlineKeyboardButton("🚫 Terminate", "terminate_btn"),
      InlineKeyboardButton("🏠 Home", "start_btn")]
 ]
